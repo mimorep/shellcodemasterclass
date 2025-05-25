@@ -2,9 +2,15 @@
 
 En este repositorio, podreís encontrar, todos los recursos/muestras empleados durante la masterclass. Si estas ahora mismo en ella y quieres seguirla puedes descargar las muestras en un entorno seguro y replicar lo que vemos en clase. Además os he dejado alguna muestra más a modo de reto (ya que no creo que me de tiempo de verlas en la clase), para que las vayaís haciendo.
 
-## Advertencia!!!
+## ¡¡¡Advertencia!!!
 
 Todas las muestras que vas a ver aqui, son **MALWARE**, (ninguna de ellas te van a hacer nada, ya que estan 100% desarrolladas por mi) por lo que asegurate de tratarlas como tal y no las ejecutes en tu propio ordenador.
+
+La contraseña de todos los zip es:
+
+```
+infected
+```
 
 ## Ejercicios
 
